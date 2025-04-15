@@ -1,0 +1,1 @@
+# Simplified settings (to be expanded later)
